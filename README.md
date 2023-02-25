@@ -1,5 +1,5 @@
 Olá, conheça um pouco sobre mim 👋
 
 - 🔭 Trabalho ministrando aulas particulares de programação PHP
-- 👯 Estou desenvolvendo vários projetos que vão ajudar desenvolvedores em PHP e empresas.
+- 👯 Desenvolvo software e sistemas opensource em PHP, Python e Gambas3.
 - 📫 Tenho diversas redes sociais que você pode entrar em contato
