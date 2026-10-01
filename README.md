@@ -32,7 +32,7 @@ Desenvolvedor PHP com **21 anos de experiência** em programação, sendo 14 ano
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-00ADD8?style=for-the-badge&logo=laravel&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
