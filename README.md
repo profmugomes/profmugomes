@@ -15,9 +15,9 @@ Ajudo profissionais a organizarem seus objetivos, definirem prioridades e constr
 
 Entre em contato pelo WhatsApp para conhecer a mentoria.
 
-<center>
+<p align="center">
   <img width="400" alt="QR Code para contato pelo WhatsApp" src="https://github.com/user-attachments/assets/dc6ab0f5-bbdf-44a4-93f3-e7f9b71855a8" />
-</center>
+</p>
 
 ---
 
