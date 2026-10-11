@@ -11,14 +11,6 @@ Ajudo profissionais a organizarem seus objetivos, definirem prioridades e constr
 - ⏳ **Gestão da rotina de estudos:** metas realistas ajustadas à sua rotina atual.
 - 🔄 **Acompanhamento contínuo:** suporte para acompanhar seu progresso e manter o foco nos objetivos.
 
-### 📲 Dúvidas e agendamento
-
-Entre em contato pelo WhatsApp para conhecer a mentoria.
-
-<p align="center">
-  <img width="400" alt="QR Code para contato pelo WhatsApp" src="https://github.com/user-attachments/assets/dc6ab0f5-bbdf-44a4-93f3-e7f9b71855a8" />
-</p>
-
 ---
 
 ### Professor · Mentor · Desenvolvedor PHP
