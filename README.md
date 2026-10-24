@@ -19,7 +19,6 @@ Ajudo profissionais a organizarem seus objetivos, definirem prioridades e constr
 [![Twitch](https://img.shields.io/badge/Twitch-8b3fee?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/profmurilogomes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/profmugomes)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://tiktok.com/profmugomes)
-[![Linkedin](https://img.shields.io/badge/Linkedin-8b3fee?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mugomesmentor)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/profmugomes)
 [![Website](https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://profmugomes.com.br)
 
