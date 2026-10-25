@@ -34,7 +34,7 @@ Ajudo profissionais a organizarem seus objetivos, definirem prioridades e constr
 
 ## 👤 Sobre
 
-Desenvolvedor PHP com **21 anos de experiência** em programação, sendo 14 anos em PHP. Especialista em criar soluções web completas, desde a concepção até a implementação e manutenção. Professor e mentor, compartilhando conhecimento através de lives, tutoriais e projetos open source.
+Desenvolvedor PHP e Gambas3 com **21 anos de experiência** em programação, sendo 14 anos em PHP e 10 em Gambas3. Especialista em criar soluções web completas, desde a concepção até a implementação e manutenção. Professor e mentor, compartilhando conhecimento através de lives, tutoriais e projetos open source.
 
 > "Ao longo da minha carreira, tive o privilégio de trabalhar em projetos marcantes que moldaram minha trajetória."
 
@@ -45,7 +45,7 @@ Desenvolvedor PHP com **21 anos de experiência** em programação, sendo 14 ano
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![GO](https://img.shields.io/badge/GO-1572B6?style=for-the-badge&logo=go&logoColor=white)
+![Gambas3](https://img.shields.io/badge/Gambas3-1572B6?style=for-the-badge&logo=gambas3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-00ADD8?style=for-the-badge&logo=laravel&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
