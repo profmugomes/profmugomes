@@ -34,7 +34,7 @@ Ajudo profissionais a organizarem seus objetivos, definirem prioridades e constr
 
 ## 👤 Sobre
 
-Desenvolvedor PHP e Gambas3 com **21 anos de experiência** em programação, sendo 14 anos em PHP e 10 em Gambas3. Especialista em criar soluções web completas, desde a concepção até a implementação e manutenção. Professor e mentor, compartilhando conhecimento através de lives, tutoriais e projetos open source.
+Desenvolvedor PHP e Gambas3 com **21 anos de experiência** em programação, sendo 14 anos em PHP e 10 anos em Gambas3. Especialista em criar soluções web completas, desde a concepção até a implementação e manutenção. Professor e mentor, compartilhando conhecimento através de lives, tutoriais e projetos open source.
 
 > "Ao longo da minha carreira, tive o privilégio de trabalhar em projetos marcantes que moldaram minha trajetória."
 
@@ -46,7 +46,6 @@ Desenvolvedor PHP e Gambas3 com **21 anos de experiência** em programação, se
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Gambas3](https://img.shields.io/badge/Gambas3-1572B6?style=for-the-badge&logo=gambas3&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-00ADD8?style=for-the-badge&logo=laravel&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -55,13 +54,10 @@ Desenvolvedor PHP e Gambas3 com **21 anos de experiência** em programação, se
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Livewire](https://img.shields.io/badge/Livewire-35495E?style=for-the-badge&logo=livewire&logoColor=4FC08D)
 
 ### Infraestrutura & Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
